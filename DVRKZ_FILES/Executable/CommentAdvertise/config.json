@@ -1,0 +1,33 @@
+{
+    "accounts": [
+      {"username": "Schweigen.", "password": "x!"},
+      {"username": "ThroatSlit", "password": "x!"},
+      {"username": "Ashen Player", "password": "x!"},
+      {"username": "AkiraSimp", "password": "x"},
+      {"username": "sharpalina", "password": "x"},
+      {"username":"Aspair", "password": "x!"}
+    ],
+    "presets": {
+        "sharpalina": "пж помогите йкак воствнолит эту скрипт?? ",
+        "Schweigen.": "Bitte helfen Sie mir, wie kann ich dieses Skript verwenden?? ",
+        "ThroatSlit": "per favore aiutami, come posso usare questo script??  ",
+        "Ashen Player": "prosze pomozcie mi jak odpalic ten skrypt??? ",
+        "AkiraSimp": "S'il vous plaît, aidez-moi, comment puis-je utiliser ce script ?? ",
+        "Aspair": "bana yardım eder misin, bu yazılımı nasıl kullanabilirim??   "
+    },
+    "gamelist": [
+      "2429738",
+      "1243225",
+      "2263148",
+      "6004710",
+      "10370845",
+      "1881871",
+      "10411695",
+      "2593313",
+      "9231110"
+
+    ]
+  }
+  
+
+  
